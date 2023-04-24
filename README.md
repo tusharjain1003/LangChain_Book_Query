@@ -1,4 +1,4 @@
-<h1>LangChain Pinecone Book Query</h1>
+<h1>LangChain Book Query</h1>
 
 <p>This project demonstrates how to use LangChain to query a book using OpenAI and Pinecone. By splitting the book into smaller documents using LangChain, and then converting them into embeddings using OpenAI's API, users can query the data stored in Pinecone to receive contextually relevant answers to their questions.</p>
 
